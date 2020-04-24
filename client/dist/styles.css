@@ -1,0 +1,7 @@
+.ReactModal__Overlay--after-open {
+  z-index: 5 !important
+}
+
+div {
+  background: red;  
+}
